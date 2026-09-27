@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: ui-container
-        image: axion-ui:167
+        image: axionappacrakkc01.azurecr.io/axion-dashboard:170
         ports:
         - containerPort: 80
 
